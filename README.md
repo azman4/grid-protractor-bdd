@@ -58,7 +58,7 @@ This command downloads/updates the browser drivers.
 
 ### Commands
 
-#### Run Scripts on Local Devices
+#### Run Scripts on Local Browser (By default chrome)
 
 1. npm run protractor 
 This command would start execution on the platform details provided during execution 
