@@ -8,7 +8,7 @@ Feature: Verify Login, Creation of Project and Simulation on the D3A Web App
       When I click on "login_Button" button
       Then I should see "homePage_Title" label
 
-    @CreateProject @D3AE2E
+   @CreateProject @D3AE2E
    Scenario: Create a Test Project
       Given I click on "projects_Icon" button
       Then I should see "projectPage_Title" label
