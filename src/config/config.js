@@ -42,7 +42,7 @@ exports.config = {
       '../step_definitions/*.js',
     ],
     format: `json:./reports/results.json`,
-    tags: ['@LoginToD3A'],
+    tags: ['@D3AE2E'],
     profile: false,
     'no-source': true,
     strict: true,
