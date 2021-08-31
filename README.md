@@ -1,4 +1,4 @@
-# DIGH_VEGA_ANDROID_AUTOMATION
+# Protractor with Cucumber BDD Framework
 
 ## Table of Contents
 
